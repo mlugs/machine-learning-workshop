@@ -2,7 +2,7 @@
 
 ### about
 
-Full code: ``workshop.ipynb``
+Full code: [workshop.ipynb](workshop.ipynb)
 
 
 ### requirements
