@@ -22,6 +22,13 @@ date: 2022-03-01
 see [part2/readme.md](part2/readme.md)
 
 
+#### part3: Cut out parts of Images by using UNet
+
+date: 2022-04-05
+
+see [part3/readme.md](part3/readme.md)
+
+
 ### links
 
 - https://mlugs.de
